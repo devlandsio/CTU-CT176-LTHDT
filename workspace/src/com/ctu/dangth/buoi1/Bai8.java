@@ -1,5 +1,6 @@
 package com.ctu.dangth.buoi1;
 
+// Chèn mảng vào nhưng vẫn đảm vảo tăng dần
 import java.util.Scanner;
 
 public class Bai8 {
